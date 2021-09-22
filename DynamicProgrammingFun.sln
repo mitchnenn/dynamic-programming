@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DynamicProgrammingFun", "DynamicProgrammingFun\DynamicProgrammingFun.fsproj", "{BCD5EE31-4C26-414F-970A-7017BA615BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD5EE31-4C26-414F-970A-7017BA615BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD5EE31-4C26-414F-970A-7017BA615BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD5EE31-4C26-414F-970A-7017BA615BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD5EE31-4C26-414F-970A-7017BA615BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

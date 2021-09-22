@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <WarnOn>3390;$(WarnOn)</WarnOn>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="fib.fs" />
+        <Compile Include="canSum.fs" />
+        <Compile Include="howSum.fs" />
+        <Compile Include="bestSum.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>
