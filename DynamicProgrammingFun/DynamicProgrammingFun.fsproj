@@ -7,11 +7,13 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Compile Include="Common.fs" />
         <Compile Include="fib.fs" />
         <Compile Include="canSum.fs" />
         <Compile Include="howSum.fs" />
         <Compile Include="bestSum.fs" />
         <Compile Include="CanConstruct.fs" />
+        <Compile Include="CountConstruct.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 

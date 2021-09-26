@@ -1,11 +1,7 @@
 module CanConstructModule
 
 open System.Collections.Generic
-
-let getSuffixOrNothing (target:string) (prefix:string) : Option<string> =
-    match target.IndexOf(prefix) with
-    | 0 -> Some(target.Substring(prefix.Length))
-    | _ -> None
+open Common
 
 let canConstruct (target:string) (words:string list) : bool =
     let rec canConstruct' (target:string) (memo:Dictionary<string,bool>) : bool =
