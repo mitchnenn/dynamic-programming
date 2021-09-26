@@ -2,12 +2,14 @@
 open CanSumModule
 open HowSumModule
 open BestSumModule
+open CanConstructModule
 
 [<EntryPoint>]
 let main argv =
     //runFib
     //runCanSum
     //runHowSum
-    runBestSum
+    //runBestSum
+    runCanConstruct
 
     0 // return an integer exit code

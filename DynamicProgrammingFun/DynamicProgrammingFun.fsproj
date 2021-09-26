@@ -11,6 +11,7 @@
         <Compile Include="canSum.fs" />
         <Compile Include="howSum.fs" />
         <Compile Include="bestSum.fs" />
+        <Compile Include="CanConstruct.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
